@@ -19,13 +19,13 @@ git clone https://github.com/grenkoff/django-clean-template-for-vscode.git
 Rename your project ...
 
 ```
-mv django-clean-template-for-vscode <your-django-project>
+mv django-clean-template-for-vscode/ <your-django-project/>
 ```
 
 and **c**hange **d**irectory:
 
 ```
-cd your-django-project/
+cd <your-django-project/>
 ```
 
 Launch `install.sh`:
