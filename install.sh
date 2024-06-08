@@ -1,8 +1,8 @@
 #!/bin/bash
-base_python_interpreter=""
+base_python_interpreter=$(which python3)
 
-read -p "Python interpreter: " base_python_interpreter
-`$base_python_interpreter -m venv .venv`
+$base_python_interpreter -m venv .venv
 source .venv/bin/activate
 pip install -U pip
 pip install -r requirements.txt
+echo "# Project ``" > README.md
