@@ -1,5 +1,7 @@
 # Project `django-clean-template-for-vscode`
 
+This project is designed to easily run a Django project in a VSCode environment. Installation of the Python extension (by Microsoft) is required.
+
 ## Clone & run
 
 Go to the directory where your project will be stored, for example, `projects/`:
@@ -14,11 +16,10 @@ cd projects/
 git clone https://github.com/grenkoff/django-clean-template-for-vscode.git
 ```
 
-Rename your project:
+Rename your project and **c**hange **d**irectory:
 
 ```
-mv django-clean-template-for-vscode your-django-project
-cd your-django-projects/
+mv django-clean-template-for-vscode your-django-project && cd your-django-projects/
 ```
 
 Launch `install.sh`:
