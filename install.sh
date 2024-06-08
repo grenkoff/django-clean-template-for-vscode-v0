@@ -1,7 +1,5 @@
 #!/bin/bash
-base_python_interpreter=$(which python3)
-
-$base_python_interpreter -m venv .venv
+$(which python3) -m venv .venv
 source .venv/bin/activate
 pip install -U pip
 pip install -r requirements.txt
@@ -10,3 +8,4 @@ rm -rf .git
 git init
 git add .
 git commit -m "initial commit"
+code .
