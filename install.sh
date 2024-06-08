@@ -3,7 +3,8 @@ $(which python3) -m venv .venv
 source .venv/bin/activate
 pip install -U pip
 pip install -r requirements.txt
-echo "# Project \`your-project-name\`" > README.md
+echo "# Project \`your-project\`" > README.md
+echo -e ".vscode/\n.pylintrc" >> .gitignore
 rm -rf .git
 git init
 git add .
