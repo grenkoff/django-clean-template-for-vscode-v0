@@ -36,8 +36,6 @@ Launch `install.sh`:
 
 After the script execution VS Code will be opened. Press `ctrl+f5` to run the command `python3 manage.py runserver`.
 
-You can now delete the `install.sh` file.
-
 Django project ready for development.
 
 ## Author
