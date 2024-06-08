@@ -1,5 +1,6 @@
 # Project `django-clean-template-for-vscode`
 
+## Clone & run
 
 Go to the directory where your project will be stored, for example, `projects/`:
 
@@ -42,4 +43,4 @@ Django project ready for development.
 
 [Alexander Grenkov](https://github.com/grenkoff)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="grenkoff" data-color="#5F7FFF" data-emoji="🐍" data-font="Comic" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/grenkoff)
