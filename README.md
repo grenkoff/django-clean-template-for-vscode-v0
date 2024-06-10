@@ -44,4 +44,4 @@ Django project ready for development.
 
 Before making a **fork** 🥄, click on the **star** ⭐.
 
-<!-- [<img src="https://github.com/grenkoff/grenkoff/blob/main/images/yellow-button.png" width="170" height="48">](https://www.buymeacoffee.com/grenkoff) -->
+[<img src="https://github.com/grenkoff/grenkoff/blob/main/images/yellow-button.png" width="170" height="48">](https://www.buymeacoffee.com/grenkoff)
