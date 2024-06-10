@@ -6,4 +6,5 @@ disable = missing-function-docstring,
         attribute-defined-outside-init,
         line-too-long,
         invalid-str-returned,
-        no-member
+        no-member,
+        unsubscriptable-object
