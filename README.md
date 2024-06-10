@@ -1,6 +1,6 @@
 # Project `django-clean-template-for-vscode`
 
-This project is designed to easily run a Django project in a VS Code environment. Installation of the Python extension (by Microsoft) is required.
+This project is designed to easily run a Django project in a VS Code environment. Installation of the *Extension: Python* (by Microsoft) is required.
 
 ## Clone & run
 
