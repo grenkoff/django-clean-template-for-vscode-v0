@@ -42,12 +42,6 @@ Django project ready for development.
 
 [Alexander Grenkov](https://github.com/grenkoff)
 
-<h1>ertg</h1>
-
 Before making a **fork** 🥄, click on the **star** ⭐.
 
-[<img src="https://github.com/grenkoff/grenkoff/blob/main/images/yellow-button.png" width="170" height="48">](https://www.buymeacoffee.com/grenkoff)
-
-<a href="https://www.buymeacoffee.com/grenkoff" target="_blank">
-    <img src="https://github.com/grenkoff/grenkoff/blob/main/images/yellow-button.png" width="170" height="48">
-</a>
+<!-- [<img src="https://github.com/grenkoff/grenkoff/blob/main/images/yellow-button.png" width="170" height="48">](https://www.buymeacoffee.com/grenkoff) -->
