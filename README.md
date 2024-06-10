@@ -42,6 +42,8 @@ Django project ready for development.
 
 [Alexander Grenkov](https://github.com/grenkoff)
 
-Before making a **fork**, click on the **star**.
+Before making a **fork** 🥄, click on the **star** ⭐.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/grenkoff)
+
+[<img src="https://github.com/grenkoff/grenkoff/blob/main/images/yellow-button.png" width="200" height="200">](https://www.buymeacoffee.com/grenkoff)
